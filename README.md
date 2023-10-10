@@ -1,4 +1,4 @@
-<div style="background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVKVOr1bq9PjOoZmpPVfxOGEk1L0AwI1dI93587-3joW3bKdJqMrFfNDAxau2pXIf3L3M&usqp=CAU'); background-size: cover; text-align: center; padding: 100px 0;">
+<div style="background-image: url('[https://example.com/space-image.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVKVOr1bq9PjOoZmpPVfxOGEk1L0AwI1dI93587-3joW3bKdJqMrFfNDAxau2pXIf3L3M&usqp=CAU)'); background-size: cover; text-align: center; padding: 100px 0;">
   <h1 style="color: white;">Hi 👋, I'm Soorya Akilesh</h1>
   <h3 style="color: white;">🔭A passionate front-end development student on a journey to master the art of crafting interactive web experiences.</h3>
 </div>
