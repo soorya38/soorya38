@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soorya Akilesh</h1>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVKVOr1bq9PjOoZmpPVfxOGEk1L0AwI1dI93587-3joW3bKdJqMrFfNDAxau2pXIf3L3M&usqp=CAU" alt="Cool Image" width="300" height="300" align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVKVOr1bq9PjOoZmpPVfxOGEk1L0AwI1dI93587-3joW3bKdJqMrFfNDAxau2pXIf3L3M&usqp=CAU" alt="Cool Image" height="300" align="center">
 <h3 align="center">🔭A passionate front-end development student on a journey to master the art of crafting interactive web experiences.</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript**
