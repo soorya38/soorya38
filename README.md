@@ -1,11 +1,11 @@
 <div style="background-image: url('[https://example.com/space-image.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVKVOr1bq9PjOoZmpPVfxOGEk1L0AwI1dI93587-3joW3bKdJqMrFfNDAxau2pXIf3L3M&usqp=CAU)'); background-size: cover; text-align: center; padding: 100px 0;">
   <h1 style="color: white;">Hi 👋, I'm Soorya Akilesh</h1>
-  <h3 style="color: white;">🔭A passionate front-end development student on a journey to master the art of crafting interactive web experiences.</h3>
+  <h3 style="color: white;">🔭Aspiring Software Engineer | Passionate Learner | Creative Problem Solver</h3>
 </div>
 
 <h3 align="center">About Me:</h3>
 <p align="center">
-  - 🌱 I’m currently learning **HTML, CSS, JavaScript**<br>
+  - 🌱 I’m currently learning **Front-end**<br>
   - 💬 Ask me about **puzzels, gamedev, brain-teasers**<br>
   - 📫 How to reach me **csasoorya@gmail.com**<br>
   - ⚡ Fun fact **Astronauts grow taller in space!**<br>
