@@ -5,7 +5,6 @@
 
 <h3 align="center">About Me:</h3>
 <p align="center">
-  - 🌱 I’m currently learning **Full stack**<br>
   - 💬 Ask me about **puzzels, gamedev, brain-teasers**<br>
   - 📫 How to reach me **csasoorya@gmail.com**<br>
   - ⚡ Fun fact **Astronauts grow taller in space!**<br>
