@@ -8,6 +8,7 @@
   - 💬 Ask me about **puzzels, gamedev, brain-teasers**<br>
   - 📫 How to reach me **csasoorya@gmail.com**<br>
   - ⚡ Fun fact **Astronauts grow taller in space!**<br>
+  - 💻 Learning to code (If my code doesn’t work,  I like to think it's a cosmic conspiracy.)<br>
 </p>
 
 <h3 align="left">Connect with me:</h3>
