@@ -5,9 +5,12 @@
 
 <h3 align="center">About Me:</h3>
 <p align="center">
-  - 💬 Ask me about **puzzels, gamedev, brain-teasers**<br>
-  - 📫 How to reach me **csasoorya@gmail.com**<br>
-  - 💻 Learning to code (If my code doesn’t work,  I like to think it's a cosmic conspiracy.)<br>
+  👨‍💻 Full-time developer, part-time debugger, occasional miracle worker.<br>
+  🚀 I write code that works… eventually.<br>
+  🔥 Currently in a toxic relationship with semicolons.<br>
+  🏗 Building the future… one bug at a time.<br>
+  🛠 Fixing bugs I created while fixing other bugs.<br>
+  📢 "This is fine." – Me, watching my code in production.<br>
 </p>
 
 <h3 align="left">Connect with me:</h3>
