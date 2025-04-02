@@ -3,7 +3,6 @@
   <h3 style="color: white;">A Developer by Day, Bug Exorcist by Night</h3>
 </div>
 
-<h3 align="left">About Me:</h3>
 <p align="left">
   🧑‍💻 Hi, I'm Soorya Akilesh—just a human compiling life one line at a time.<br>
   🛠️ Sometimes my code works. Sometimes it just... takes a creative approach.<br>
